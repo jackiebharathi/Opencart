@@ -1,0 +1,186 @@
+19:12:05.151 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\testng.xml
+
+19:12:32.516 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\testng.xml
+
+19:25:01.790 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\multiplebrowser.xml
+
+19:26:19.953 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\multiplebrowser.xml
+
+19:39:23.097 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\testng.xml
+
+20:11:44.780 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\testng.xml
+
+20:11:58.150 [main] INFO  testCases.TC002_LoginTest **********starting login verification*********
+20:28:40.707 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\testng.xml
+
+20:28:53.376 [main] INFO  testCases.TC002_LoginTest **********starting login verification*********
+20:28:56.320 [main] INFO  testCases.TC002_LoginTest **********Ending login verification************
+22:03:07.899 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\testng.xml
+
+22:03:18.829 [main] INFO  testCases.TC003_LoginDDT **********starting TC003_loginDDT******
+22:03:30.883 [main] INFO  testCases.TC003_LoginDDT ********ending TC003*********
+22:03:30.895 [main] INFO  testCases.TC003_LoginDDT **********starting TC003_loginDDT******
+22:03:34.099 [main] INFO  testCases.TC003_LoginDDT ********ending TC003*********
+22:03:34.122 [main] INFO  testCases.TC003_LoginDDT **********starting TC003_loginDDT******
+22:03:37.059 [main] INFO  testCases.TC003_LoginDDT ********ending TC003*********
+22:03:37.071 [main] INFO  testCases.TC003_LoginDDT **********starting TC003_loginDDT******
+22:03:48.103 [main] INFO  testCases.TC003_LoginDDT ********ending TC003*********
+22:03:48.111 [main] INFO  testCases.TC003_LoginDDT **********starting TC003_loginDDT******
+22:03:52.979 [main] INFO  testCases.TC003_LoginDDT ********ending TC003*********
+22:09:50.371 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\testng.xml
+
+22:09:56.533 [main] INFO  testCases.TC003_LoginDDT **********starting TC003_loginDDT******
+22:10:08.409 [main] INFO  testCases.TC003_LoginDDT ********ending TC003*********
+22:10:08.417 [main] INFO  testCases.TC003_LoginDDT **********starting TC003_loginDDT******
+22:10:10.878 [main] INFO  testCases.TC003_LoginDDT ********ending TC003*********
+22:10:10.883 [main] INFO  testCases.TC003_LoginDDT **********starting TC003_loginDDT******
+22:10:13.563 [main] INFO  testCases.TC003_LoginDDT ********ending TC003*********
+22:10:13.594 [main] INFO  testCases.TC003_LoginDDT **********starting TC003_loginDDT******
+22:10:25.205 [main] INFO  testCases.TC003_LoginDDT ********ending TC003*********
+22:10:25.216 [main] INFO  testCases.TC003_LoginDDT **********starting TC003_loginDDT******
+22:10:27.925 [main] INFO  testCases.TC003_LoginDDT ********ending TC003*********
+09:44:09.859 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\grouping.xml
+
+09:46:03.143 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\grouping.xml
+
+09:46:15.421 [main] INFO  testCases.TC002_LoginTest **********starting login verification*********
+09:46:17.744 [main] INFO  testCases.TC002_LoginTest **********Ending login verification************
+09:46:51.440 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\grouping.xml
+
+09:46:59.278 [main] INFO  testCases.TC002_LoginTest **********starting login verification*********
+09:47:02.402 [main] INFO  testCases.TC002_LoginTest **********Ending login verification************
+10:59:04.746 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\grouping.xml
+
+10:59:15.917 [main] INFO  testCases.TC002_LoginTest **********starting login verification*********
+10:59:18.077 [main] INFO  testCases.TC002_LoginTest **********Ending login verification************
+12:14:05.382 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\grouping.xml
+
+12:14:17.814 [main] INFO  testCases.TC002_LoginTest **********starting login verification*********
+12:14:20.189 [main] INFO  testCases.TC002_LoginTest **********Ending login verification************
+12:54:38.420 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\testng.xml
+
+12:54:46.775 [main] INFO  testCases.TC003_LoginDDT **********starting TC003_loginDDT******
+12:54:58.518 [main] INFO  testCases.TC003_LoginDDT ********ending TC003*********
+12:54:58.564 [main] INFO  testCases.TC003_LoginDDT **********starting TC003_loginDDT******
+12:55:00.602 [main] INFO  testCases.TC003_LoginDDT ********ending TC003*********
+12:55:00.618 [main] INFO  testCases.TC003_LoginDDT **********starting TC003_loginDDT******
+12:55:05.815 [main] INFO  testCases.TC003_LoginDDT ********ending TC003*********
+12:55:05.836 [main] INFO  testCases.TC003_LoginDDT **********starting TC003_loginDDT******
+12:55:17.451 [main] INFO  testCases.TC003_LoginDDT ********ending TC003*********
+12:55:17.459 [main] INFO  testCases.TC003_LoginDDT **********starting TC003_loginDDT******
+12:55:19.927 [main] INFO  testCases.TC003_LoginDDT ********ending TC003*********
+12:57:29.763 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\testng.xml
+
+12:57:41.807 [main] INFO  testCases.TC002_LoginTest **********starting login verification*********
+12:57:44.490 [main] INFO  testCases.TC002_LoginTest **********Ending login verification************
+12:59:10.381 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\testng.xml
+
+12:59:22.099 [main] INFO  testCases.TC002_LoginTest **********starting login verification*********
+13:03:16.582 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\test-output\testng-failed.xml
+
+13:03:22.801 [main] INFO  testCases.TC003_LoginDDT **********starting TC003_loginDDT******
+13:03:34.671 [main] INFO  testCases.TC003_LoginDDT ********ending TC003*********
+13:03:34.694 [main] INFO  testCases.TC003_LoginDDT **********starting TC003_loginDDT******
+13:03:36.986 [main] INFO  testCases.TC003_LoginDDT ********ending TC003*********
+13:03:36.996 [main] INFO  testCases.TC003_LoginDDT **********starting TC003_loginDDT******
+13:03:39.255 [main] INFO  testCases.TC003_LoginDDT ********ending TC003*********
+13:04:05.381 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\testng.xml
+
+13:04:16.224 [main] INFO  testCases.TC002_LoginTest **********starting login verification*********
+13:06:32.558 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\testng.xml
+
+13:06:44.608 [main] INFO  testCases.TC002_LoginTest **********starting login verification*********
+13:09:33.166 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\multiplebrowser.xml
+
+13:15:10.376 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\multiplebrowser.xml
+
+13:21:53.492 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\multiplebrowser.xml
+
+15:36:05.520 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\Docker-grid.xml
+
+15:36:18.076 [main] INFO  testCases.TC002_LoginTest **********starting login verification*********
+15:36:20.570 [main] INFO  testCases.TC002_LoginTest **********Ending login verification************
+15:36:46.817 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\Docker-grid.xml
+
+15:37:00.674 [main] INFO  testCases.TC002_LoginTest **********starting login verification*********
+15:37:03.044 [main] INFO  testCases.TC002_LoginTest **********Ending login verification************
+15:37:57.908 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\Docker-grid.xml
+
+15:54:23.295 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\Docker-grid.xml
+
+15:54:46.844 [main] INFO  testCases.TC002_LoginTest **********starting login verification*********
+15:54:49.134 [main] INFO  testCases.TC002_LoginTest **********Ending login verification************
+15:55:22.103 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\Docker-grid.xml
+
+15:55:49.982 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\Docker-grid.xml
+
+15:56:11.104 [main] INFO  testCases.TC002_LoginTest **********starting login verification*********
+15:56:13.074 [main] INFO  testCases.TC002_LoginTest **********Ending login verification************
+16:11:18.223 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\Docker-grid.xml
+
+16:12:43.244 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\testng.xml
+
+16:12:55.058 [main] INFO  testCases.TC002_LoginTest **********starting login verification*********
+16:12:57.230 [main] INFO  testCases.TC002_LoginTest **********Ending login verification************
+16:14:19.468 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\testng.xml
+
+16:14:29.771 [main] INFO  testCases.TC002_LoginTest **********starting login verification*********
+16:14:31.990 [main] INFO  testCases.TC002_LoginTest **********Ending login verification************
+16:15:04.930 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\Docker-grid.xml
+
+16:17:36.303 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\grouping.xml
+
+16:18:59.399 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\grouping.xml
+
+16:43:23.214 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\grouping.xml
+
+16:43:37.300 [main] INFO  testCases.TC002_LoginTest **********starting login verification*********
+16:43:40.453 [main] INFO  testCases.TC002_LoginTest **********Ending login verification************
+17:03:24.546 [main] INFO  testCases.TC002_LoginTest **********starting login verification*********
+17:03:26.719 [main] INFO  testCases.TC002_LoginTest **********Ending login verification************
+17:06:11.142 [main] INFO  testCases.TC002_LoginTest **********starting login verification*********
+17:06:13.226 [main] INFO  testCases.TC002_LoginTest **********Ending login verification************
+17:12:42.060 [main] INFO  testCases.TC002_LoginTest **********starting login verification*********
+17:12:44.071 [main] INFO  testCases.TC002_LoginTest **********Ending login verification************
+17:13:40.751 [main] INFO  testCases.TC002_LoginTest **********starting login verification*********
+17:13:43.292 [main] INFO  testCases.TC002_LoginTest **********Ending login verification************
+17:26:03.505 [main] INFO  testCases.TC002_LoginTest **********starting login verification*********
+17:26:05.700 [main] INFO  testCases.TC002_LoginTest **********Ending login verification************
+17:36:39.219 [main] INFO  testCases.TC002_LoginTest **********starting login verification*********
+17:36:41.765 [main] INFO  testCases.TC002_LoginTest **********Ending login verification************
