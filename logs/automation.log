@@ -184,3 +184,210 @@
 17:26:05.700 [main] INFO  testCases.TC002_LoginTest **********Ending login verification************
 17:36:39.219 [main] INFO  testCases.TC002_LoginTest **********starting login verification*********
 17:36:41.765 [main] INFO  testCases.TC002_LoginTest **********Ending login verification************
+10:08:28.032 [main] INFO  testCases.TC002_LoginTest **********starting login verification*********
+10:08:31.164 [main] INFO  testCases.TC002_LoginTest **********Ending login verification************
+10:18:39.968 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\Docker-grid.xml
+
+10:25:01.102 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\Docker-grid.xml
+
+10:39:22.705 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\Docker-grid.xml
+
+10:39:38.777 [main] INFO  testCases.TC002_LoginTest **********starting login verification*********
+10:39:41.761 [main] INFO  testCases.TC002_LoginTest **********Ending login verification************
+10:40:08.631 [main] INFO  testCases.TC002_LoginTest **********starting login verification*********
+10:40:10.795 [main] INFO  testCases.TC002_LoginTest **********Ending login verification************
+10:51:16.316 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\Docker-grid.xml
+
+10:51:29.697 [main] INFO  testCases.TC002_LoginTest **********starting login verification*********
+10:51:32.392 [main] INFO  testCases.TC002_LoginTest **********Ending login verification************
+10:51:58.404 [main] INFO  testCases.TC002_LoginTest **********starting login verification*********
+10:52:00.969 [main] INFO  testCases.TC002_LoginTest **********Ending login verification************
+19:03:16.469 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\multiplebrowser.xml
+
+20:57:11.418 [main] INFO  testCases.TC002_LoginTest **********starting login verification*********
+20:57:14.368 [main] INFO  testCases.TC002_LoginTest **********Ending login verification************
+21:02:58.524 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\multiplebrowser.xml
+
+21:05:35.049 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\multiplebrowser.xml
+
+21:07:42.704 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\multiplebrowser.xml
+
+21:07:52.921 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\multiplebrowser.xml
+
+21:27:27.603 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\testng.xml
+
+21:31:19.847 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\testng.xml
+
+18:33:36.326 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:33:36.338 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+18:33:36.343 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:33:36.343 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:33:36.345 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:33:36.345 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:33:36.346 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:33:36.346 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:33:36.359 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+18:33:36.374 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 15 ms.
+18:33:36.378 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:33:36.378 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:33:36.380 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:33:36.380 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:33:36.381 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:33:36.381 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:33:36.384 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:33:36.384 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:33:36.385 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:33:36.385 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:33:36.389 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:33:36.389 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:33:36.389 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:33:36.390 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:33:36.391 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:33:36.392 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:33:36.395 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:33:36.395 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:33:36.395 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:33:36.396 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:33:36.410 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\AppData\Local\Temp\testng-eclipse-1550840530\testng-customsuite.xml
+
+18:33:36.442 [main] INFO  org.testng.internal.Utils [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+18:33:37.206 [main] INFO  org.testng.internal.Utils [TestNG] Time taken by org.testng.reporters.jq.Main@7096b474: 405 ms
+18:33:37.236 [main] INFO  org.testng.internal.Utils [TestNG] Time taken by org.testng.reporters.FailedReporter@278bb07e: 29 ms
+18:33:37.253 [main] INFO  org.testng.internal.Utils [TestNG] Time taken by org.testng.reporters.XMLReporter@698122b2: 16 ms
+18:33:37.299 [main] INFO  org.testng.internal.Utils [TestNG] Time taken by org.testng.reporters.EmailableReporter2@18025ced: 46 ms
+18:33:37.367 [main] INFO  org.testng.internal.Utils [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@78fbff54: 68 ms
+18:33:37.368 [main] INFO  org.testng.internal.Utils [TestNG] Time taken by org.testng.internal.ExitCodeListener@3e10dc6: 0 ms
+18:39:11.240 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+18:39:11.256 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+18:39:11.261 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:39:11.262 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:39:11.264 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:39:11.264 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:39:11.266 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:39:11.266 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:39:11.287 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 16 ms.
+18:39:11.311 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 24 ms.
+18:39:11.319 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:39:11.320 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:39:11.322 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:39:11.323 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:39:11.324 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:39:11.325 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:39:11.330 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:39:11.331 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:39:11.334 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:39:11.335 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:39:11.341 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:39:11.342 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:39:11.342 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:39:11.342 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:39:11.345 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+18:39:11.346 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:39:11.350 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:39:11.350 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:39:11.350 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:39:11.351 [main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:39:11.371 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\AppData\Local\Temp\testng-eclipse-1011713731\testng-customsuite.xml
+
+18:39:11.418 [main] INFO  org.testng.internal.Utils [Utils] DynamicGraphHelper.createDynamicGraph() took 11 ms.
+18:39:12.001 [main] INFO  org.testng.internal.Utils [TestNG] Time taken by org.testng.reporters.jq.Main@3f07b12c: 261 ms
+18:39:12.078 [main] INFO  org.testng.internal.Utils [TestNG] Time taken by org.testng.reporters.FailedReporter@5644dc81: 77 ms
+18:39:12.108 [main] INFO  org.testng.internal.Utils [TestNG] Time taken by org.testng.reporters.XMLReporter@7c541c15: 30 ms
+18:39:12.123 [main] INFO  org.testng.internal.Utils [TestNG] Time taken by org.testng.reporters.EmailableReporter2@20f12539: 14 ms
+18:39:12.134 [main] INFO  org.testng.internal.Utils [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@77a98a6a: 11 ms
+18:39:12.134 [main] INFO  org.testng.internal.Utils [TestNG] Time taken by org.testng.internal.ExitCodeListener@78fbff54: 0 ms
+18:39:59.388 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\testng.xml
+
+18:54:12.536 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\testng.xml
+
+18:54:23.061 [main] INFO  testCases.TC002_LoginTest **********starting login verification*********
+18:54:25.935 [main] INFO  testCases.TC002_LoginTest **********Ending login verification************
+18:57:14.083 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\testng.xml
+
+18:57:24.414 [main] INFO  testCases.TC002_LoginTest **********starting login verification*********
+18:57:26.747 [main] INFO  testCases.TC002_LoginTest **********Ending login verification************
+19:09:29.786 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\testng.xml
+
+19:09:38.043 [main] INFO  testCases.TC003_LoginDDT **********starting TC003_loginDDT******
+19:09:49.873 [main] INFO  testCases.TC003_LoginDDT ********ending TC003*********
+19:09:49.918 [main] INFO  testCases.TC003_LoginDDT **********starting TC003_loginDDT******
+19:09:52.402 [main] INFO  testCases.TC003_LoginDDT ********ending TC003*********
+19:09:52.417 [main] INFO  testCases.TC003_LoginDDT **********starting TC003_loginDDT******
+19:09:54.536 [main] INFO  testCases.TC003_LoginDDT ********ending TC003*********
+19:09:54.562 [main] INFO  testCases.TC003_LoginDDT **********starting TC003_loginDDT******
+19:10:06.094 [main] INFO  testCases.TC003_LoginDDT ********ending TC003*********
+19:10:06.117 [main] INFO  testCases.TC003_LoginDDT **********starting TC003_loginDDT******
+19:10:08.444 [main] INFO  testCases.TC003_LoginDDT ********ending TC003*********
+19:13:31.508 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\grouping.xml
+
+19:13:42.375 [main] INFO  testCases.TC002_LoginTest **********starting login verification*********
+19:13:44.604 [main] INFO  testCases.TC002_LoginTest **********Ending login verification************
+19:14:32.948 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\grouping.xml
+
+19:17:18.827 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\grouping.xml
+
+19:17:31.365 [main] INFO  testCases.TC002_LoginTest **********starting login verification*********
+19:26:37.900 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\grouping.xml
+
+19:26:42.301 [main] INFO  testCases.TC002_LoginTest **********starting login verification*********
+19:26:44.662 [main] INFO  testCases.TC002_LoginTest **********Ending login verification************
+19:29:39.156 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\multiplebrowser.xml
+
+19:34:26.029 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\Docker-grid.xml
+
+19:40:09.979 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\Docker-grid.xml
+
+19:42:52.054 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\testng.xml
+
+19:43:11.052 [main] INFO  testCases.TC003_LoginDDT **********starting TC003_loginDDT******
+19:43:23.164 [main] INFO  testCases.TC003_LoginDDT ********ending TC003*********
+19:43:23.205 [main] INFO  testCases.TC003_LoginDDT **********starting TC003_loginDDT******
+19:43:25.767 [main] INFO  testCases.TC003_LoginDDT ********ending TC003*********
+19:43:25.774 [main] INFO  testCases.TC003_LoginDDT **********starting TC003_loginDDT******
+19:43:27.905 [main] INFO  testCases.TC003_LoginDDT ********ending TC003*********
+19:43:27.922 [main] INFO  testCases.TC003_LoginDDT **********starting TC003_loginDDT******
+19:43:38.822 [main] INFO  testCases.TC003_LoginDDT ********ending TC003*********
+19:43:38.838 [main] INFO  testCases.TC003_LoginDDT **********starting TC003_loginDDT******
+19:43:40.959 [main] INFO  testCases.TC003_LoginDDT ********ending TC003*********
+19:54:54.772 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\user\eclipse-workspace\Opencart\Docker-grid.xml
+
+19:55:14.373 [main] INFO  testCases.TC002_LoginTest **********starting login verification*********
+19:55:17.255 [main] INFO  testCases.TC002_LoginTest **********Ending login verification************
+19:55:48.594 [main] INFO  testCases.TC002_LoginTest **********starting login verification*********
+19:55:51.016 [main] INFO  testCases.TC002_LoginTest **********Ending login verification************
+20:26:40.652 [main] INFO  testCases.TC003_LoginDDT **********starting TC003_loginDDT******
+20:26:51.858 [main] INFO  testCases.TC003_LoginDDT ********ending TC003*********
+20:26:51.878 [main] INFO  testCases.TC003_LoginDDT **********starting TC003_loginDDT******
+20:26:53.814 [main] INFO  testCases.TC003_LoginDDT ********ending TC003*********
+20:26:53.817 [main] INFO  testCases.TC003_LoginDDT **********starting TC003_loginDDT******
+20:26:55.746 [main] INFO  testCases.TC003_LoginDDT ********ending TC003*********
+20:26:55.749 [main] INFO  testCases.TC003_LoginDDT **********starting TC003_loginDDT******
+20:27:06.436 [main] INFO  testCases.TC003_LoginDDT ********ending TC003*********
+20:27:06.439 [main] INFO  testCases.TC003_LoginDDT **********starting TC003_loginDDT******
+20:27:09.012 [main] INFO  testCases.TC003_LoginDDT ********ending TC003*********

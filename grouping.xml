@@ -6,6 +6,7 @@
  <groups>
  <run> 
   <include name="Master"></include>
+  <exclude name="Regression"></exclude>
  </run>
  </groups> 
 
@@ -15,14 +16,15 @@
 
 
   <test  name="Test">
-  <parameter name="os" value="linux"></parameter>
+  <parameter name="os" value="windows"></parameter>
   <parameter name="browser" value="chrome"></parameter>
   
   
     <classes>
       <class name="testCases.TC001_AccountRegistrationTest"/>
       <class name="testCases.TC002_LoginTest"></class>
-      <!--class name="testCases.TC003_LoginDDT"></class-->
+      <class name="testCases.TC003_LoginDDT"></class>
+      <class name="testCases.TC004_LogOutTest"></class>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

@@ -11,7 +11,19 @@
   <test  name="Linux-chrome">
   <parameter name="os" value="linux"></parameter>
   <parameter name="browser" value="chrome"></parameter>
-  
+    <classes>
+      <class name="testCases.TC001_AccountRegistrationTest"/>
+      <class name="testCases.TC002_LoginTest"></class>
+      <!--class name="testCases.TC003_LoginDDT"></!class>-->
+    </classes> 
+    </test> <!-- Test -->
+
+
+
+
+   <test  name="Linux-firefox">
+  <parameter name="os" value="linux"></parameter>
+  <parameter name="browser" value="firefox"></parameter>
   
   
     <classes>
@@ -22,5 +34,5 @@
       
       
     </classes>
-  </test> <!-- Test -->
+  </test>
 </suite> <!-- Suite -->

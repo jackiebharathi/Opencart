@@ -6,7 +6,7 @@
   </listeners>
   <test thread-count="5" name="Linux-chrome(failed)">
     <parameter name="os" value="linux"/>
-    <parameter name="browser" value="Firefox"/>
+    <parameter name="browser" value="chrome"/>
     <classes>
       <class name="testCases.TC001_AccountRegistrationTest">
         <methods>
@@ -24,4 +24,24 @@
       </class> <!-- testCases.TC002_LoginTest -->
     </classes>
   </test> <!-- Linux-chrome(failed) -->
+  <test thread-count="5" name="Linux-firefox(failed)">
+    <parameter name="os" value="linux"/>
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="testCases.TC001_AccountRegistrationTest">
+        <methods>
+          <include name="verify_account_registration"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- testCases.TC001_AccountRegistrationTest -->
+      <class name="testCases.TC002_LoginTest">
+        <methods>
+          <include name="setup"/>
+          <include name="teardown"/>
+          <include name="verify_login"/>
+        </methods>
+      </class> <!-- testCases.TC002_LoginTest -->
+    </classes>
+  </test> <!-- Linux-firefox(failed) -->
 </suite> <!-- Failed suite [Suite] -->

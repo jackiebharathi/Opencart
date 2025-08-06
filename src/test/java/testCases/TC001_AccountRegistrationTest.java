@@ -1,20 +1,11 @@
 package testCases;
 
-import java.time.Duration;
-import java.util.UUID;
-
-import org.apache.commons.lang3.RandomStringUtils;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
-import org.testng.annotations.AfterClass;
-import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
-import org.apache.commons.lang3.RandomStringUtils;
+
 import pageObjects.AccountRegistrationPage;
 import pageObjects.HomePage;
 
-@SuppressWarnings("unused")
 public class TC001_AccountRegistrationTest extends BaseClass{
 
 	
