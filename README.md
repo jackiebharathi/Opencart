@@ -8,7 +8,7 @@ This project automates test cases for the [OpenCart demo site](https://demo.open
 
 | Tool / Library     | Purpose                      |
 |--------------------|------------------------------|
-| Java 17            | Programming Language         |
+| Java 24            | Programming Language         |
 | Selenium WebDriver | UI Automation                |
 | TestNG             | Test Execution Framework     |
 | Maven              | Build & Dependency Management|
