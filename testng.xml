@@ -12,10 +12,10 @@
   <parameter name="os" value="windows"></parameter>
   <parameter name="browser" value="chrome"></parameter>
     <classes>
-      <!--class name="testCases.TC001_AccountRegistrationTest"/>
+      <class name="testCases.TC001_AccountRegistrationTest"/>
       <class name="testCases.TC002_LoginTest"></class>
        <class name="testCases.TC004_LogOutTest"></class>
-      <class name="testCases.TC003_LoginDDT"></class-->
+      <!--class name="testCases.TC003_LoginDDT"></class-->
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
