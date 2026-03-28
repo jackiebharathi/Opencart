@@ -1,45 +1,70 @@
-# 🧪 Opencart Automation Framework
+# 🧪 OpenCart Selenium Automation Framework
 
-This project automates test cases for the [OpenCart demo site](https://demo.opencart.com/) using **Selenium WebDriver**, **TestNG**, and **Java**, following the **Page Object Model (POM)** design pattern.
-
----
+Automated test suite for the [OpenCart demo site](https://demo.opencart.com) built with Selenium WebDriver, TestNG, and Java. Follows the Page Object Model (POM) design pattern with data-driven testing, CI integration, and structured reporting.
 
 ## 🔧 Tech Stack
 
-| Tool / Library     | Purpose                      |
-|--------------------|------------------------------|
-| Java 24            | Programming Language         |
-| Selenium WebDriver | UI Automation                |
-| TestNG             | Test Execution Framework     |
-| Maven              | Build & Dependency Management|
-| Apache POI         | Excel-based Data-Driven Test |
-| Log4j2             | Logging                      |
-| Extent Reports     | Test Reporting               |
-| Jenkins            | Continuous Integration       |
+| Tool / Library | Purpose |
+|----------------|---------|
+| Java 24 | Programming Language |
+| Selenium WebDriver | UI Automation |
+| TestNG | Test Execution Framework |
+| Maven | Build & Dependency Management |
+| Apache POI | Excel-based Data-Driven Testing |
+| Log4j2 | Logging |
+| Extent Reports | Test Reporting |
+| Jenkins | Continuous Integration |
 
----
+## 🧪 Test Cases
 
-## 🧪 Test Cases Included
-- TC001_AccountRegistrationTest
-- TC002_LoginTest
-- TC003_LoginDDT
-- TC004_LogOutTest
+| Test ID | Test Case |
+|---------|-----------|
+| TC001 | Account Registration |
+| TC002 | Login (static) |
+| TC003 | Login DDT (data-driven via Excel) |
+| TC004 | Logout |
 
 ## 📁 Folder Structure
 
-<img width="375" height="414" alt="image" src="https://github.com/user-attachments/assets/a14e3c8f-0a0b-466c-a090-78d74607a77b" />
+```
+opencart-selenium/
+├── src/
+│   ├── main/java/
+│   │   ├── pageObjects/       # POM classes for each page
+│   │   └── utilities/         # Reusable helpers (Excel reader, logger, etc.)
+│   └── test/java/
+│       ├── testCases/         # TestNG test scripts
+│       └── testData/          # Excel data files for DDT
+├── reports/                   # Extent Reports output
+├── logs/                      # Log4j2 log files
+├── pom.xml                    # Maven config
+└── testng.xml                 # TestNG suite config
+```
 
 ## ▶️ How to Run
-You can run the automation tests using any of the following methods:
 
-### 🟢 Option 1: Using Maven
-
+### Option 1: Maven
+```bash
+# Run from project root (where pom.xml lives)
 mvn clean test
-//Make sure you are in the project root where pom.xml is located.
+```
 
-### 🟢 Option 1: Using Jenkins 
+### Option 2: Jenkins
+1. Create a new Jenkins Freestyle job
+2. Set GitHub repo URL
+3. Add build step: `mvn clean test`
+4. Save and build
 
-Set up a Jenkins job with GitHub repo URL.
+## 📊 Reports
 
-Add a Build Step to run:
-mvn clean test
+Extent Reports are auto-generated after each run:
+```
+reports/ExtentReport.html
+```
+
+## 💡 Key Design Decisions
+
+- **POM pattern** — each page is a separate class; tests never interact with locators directly
+- **Data-driven login (TC003)** — reads credentials from Excel via Apache POI, no hardcoded test data
+- **Log4j2** — structured logs for every test action, useful for debugging failures in CI
+- **TestNG XML suite** — controls execution order and parallel run configuration
